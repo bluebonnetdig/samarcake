@@ -1,0 +1,389 @@
+{
+  "store": "Samar Cake",
+  "categories": [
+    {
+      "name": "Most Ordered",
+      "items": [
+        {
+          "name": "Dubai chocolate strawberry cup",
+          "price": "$13.00",
+          "description": "Rich chocolate cake topped with fresh strawberries and decorative cream swirls.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvM2QyZDYxZjI2NzA1ZWYwZDUyMjIzYzUwOWJmN2ZhNzEvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Chocolate cake",
+          "price": "$5.00",
+          "description": "Decadent chocolate delight, lavished with rich frosting and served with a dollop of indulgence."
+        },
+        {
+          "name": "Dubai chocolate cake",
+          "price": "$6.50",
+          "description": "Rich layers of chocolate sponge with creamy chocolate filling, topped with a sprinkle of nutty garnish.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGQ4MmQ4NGM2NjQ3MmJkYjU0OGJhZjEzYTU3MzA0YzcvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Vanilla strawberry full cake",
+          "price": "$39.00",
+          "description": "Layers of vanilla cake with strawberry slices and cream, topped with chocolate drizzle and fresh strawberries.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMjVkOWZlNGIwMWJjNDU1NjdjOWE0MzJkZjg3OGJjY2IvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Dubai chocolate cheesecake",
+          "price": "$9.00",
+          "description": "Creamy cheesecake with a graham cracker crust, topped with drizzles of chocolate and green icing."
+        },
+        {
+          "name": "Strawberry Ice Blended",
+          "price": "$9.00",
+          "description": "A refreshing blend of strawberries, creating a smooth, fruity beverage."
+        },
+        {
+          "name": "Dubai chocolate bar",
+          "price": "$9.00",
+          "description": "A rich chocolate bar drizzled with a contrasting green glaze, offering a smooth and indulgent texture.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTZjMDZjY2U3MjNjODZiNDdjNDEyMDFjMjUzM2JlOTEvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Vanilla pistachio cake",
+          "price": "$6.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNzA1NmRiNGI4NTgyMWIwZmM0NTJhZTdlMmFhMmM2ZWQvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Lazy Cake",
+          "price": "$5.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNTQ0MDM5N2M2OTFhZjJlMWMwMDhlZTc1MTdmNWVhYTAvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Biscoff vanilla cake",
+          "price": "$5.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOWZmY2JmOWNmNDYwM2IyNzA5MjA0YTVkNWMyMjcwMmMvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Birthday Cake Cookie",
+          "price": "$4.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZjY0YTNmNTYwOTdhZTA1Nzc3MWRhNzU3NGM1MjEzNTUvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Baklava 1 lb",
+          "price": "$25.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvM2U0N2I2OTg2NzYzZjI4YmJlMzg1N2IzMTA2MTJkOTAvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        }
+      ]
+    },
+    {
+      "name": "Cake Menu",
+      "items": [
+        {
+          "name": "Vanilla strawberry full cake",
+          "price": "$39.00",
+          "description": "Layers of vanilla cake with strawberry slices and cream, topped with chocolate drizzle and fresh strawberries.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMjVkOWZlNGIwMWJjNDU1NjdjOWE0MzJkZjg3OGJjY2IvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Dubai chocolate strawberry cup",
+          "price": "$13.00",
+          "description": "Rich chocolate cake topped with fresh strawberries and decorative cream swirls.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvM2QyZDYxZjI2NzA1ZWYwZDUyMjIzYzUwOWJmN2ZhNzEvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Baklava 1 lb",
+          "price": "$25.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvM2U0N2I2OTg2NzYzZjI4YmJlMzg1N2IzMTA2MTJkOTAvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Vanilla pistachio cake",
+          "price": "$6.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNzA1NmRiNGI4NTgyMWIwZmM0NTJhZTdlMmFhMmM2ZWQvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Dubai chocolate cake",
+          "price": "$6.50",
+          "description": "Rich layers of chocolate sponge with creamy chocolate filling, topped with a sprinkle of nutty garnish.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGQ4MmQ4NGM2NjQ3MmJkYjU0OGJhZjEzYTU3MzA0YzcvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Dubai chocolate cheesecake",
+          "price": "$9.00",
+          "description": "Creamy cheesecake with a graham cracker crust, topped with drizzles of chocolate and green icing."
+        },
+        {
+          "name": "Lazy Cake",
+          "price": "$5.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNTQ0MDM5N2M2OTFhZjJlMWMwMDhlZTc1MTdmNWVhYTAvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Vanilla strawberry cake",
+          "price": "$5.50",
+          "description": "Layers of vanilla cake topped with fresh strawberries and cream swirls, accented with chocolate drizzle."
+        },
+        {
+          "name": "Biscoff vanilla cake",
+          "price": "$5.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOWZmY2JmOWNmNDYwM2IyNzA5MjA0YTVkNWMyMjcwMmMvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Baklava 3 pieces",
+          "price": "$5.50",
+          "description": ""
+        },
+        {
+          "name": "Chocolate cake",
+          "price": "$5.00",
+          "description": "Decadent chocolate delight, lavished with rich frosting and served with a dollop of indulgence."
+        },
+        {
+          "name": "Strawberry cheesecake",
+          "price": "$9.00",
+          "description": "Creamy cheesecake with a strawberry topping, perfect for strawberry lovers."
+        },
+        {
+          "name": "Oreo cheesecake",
+          "price": "$9.00",
+          "description": "Rich cheesecake swirled with chunks of Oreo, finished with a generous Oreo crumb topping."
+        },
+        {
+          "name": "Kinder chocolate cheesecake",
+          "price": "$9.00",
+          "description": "Smooth cheesecake layered with rich milk chocolate, topped with pieces of Kinder chocolate, on a classic graham cracker crust."
+        },
+        {
+          "name": "Birthday Cake Pops",
+          "price": "$4.50",
+          "description": ""
+        },
+        {
+          "name": "Dubai chocolate bar",
+          "price": "$9.00",
+          "description": "A rich chocolate bar drizzled with a contrasting green glaze, offering a smooth and indulgent texture.",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTZjMDZjY2U3MjNjODZiNDdjNDEyMDFjMjUzM2JlOTEvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Dubai chocolate waffle stick",
+          "price": "$8.00",
+          "description": "Waffle stick drizzled with chocolate and topped with crushed nuts, skewered for easy handling."
+        },
+        {
+          "name": "Kinder waffle sticks",
+          "price": "$7.50",
+          "description": "Crispy waffle sticks drizzled with chocolate and caramel, topped with white chocolate shavings."
+        },
+        {
+          "name": "Chocolate waffle stick",
+          "price": "$6.00",
+          "description": ""
+        },
+        {
+          "name": "M&M cookies",
+          "price": "$5.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYjJhN2RkYTM5MTBiMzUyNzM5OGQ4ZWUzYTcyNjdhOWQvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Chocolate chip cookies",
+          "price": "$5.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGU2NTdhOGVkMzg3YTNhNDUwMDdiYjQ4YzdiM2FkZTcvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Baklava set 2 square pieces",
+          "price": "$5.50",
+          "description": ""
+        },
+        {
+          "name": "Samar Vanilla Pistachio full Cake",
+          "price": "$70.00",
+          "description": "Vanilla cake with pistachio, filling and cover with the pistachio cream"
+        },
+        {
+          "name": "Full Chocolate cake",
+          "price": "$50.00",
+          "description": "Halal full chocolate cake"
+        }
+      ]
+    },
+    {
+      "name": "Cookie Menu",
+      "items": [
+        {
+          "name": "Pistachio Cookie",
+          "price": "$5.00",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMzQxZDZjNjA5M2I3YjFhZDczMzZlZDBmNDQ3ZTYyOGIvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Oreo Cookie",
+          "price": "$4.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDM3NDcwZjg2ZmE2OThlY2U3NjlmZWJiMmVhMGViZDkvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "M&M Cookie",
+          "price": "$4.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYjJhN2RkYTM5MTBiMzUyNzM5OGQ4ZWUzYTcyNjdhOWQvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Kinder Cookie",
+          "price": "$4.50",
+          "description": ""
+        },
+        {
+          "name": "Birthday Cake Cookie",
+          "price": "$4.50",
+          "description": "",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZjY0YTNmNTYwOTdhZTA1Nzc3MWRhNzU3NGM1MjEzNTUvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "price": "$4.50",
+          "description": "Crispy, Soft-centered Classic Chocolate Chip Cookie",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNmZjOTAwOTgzMDQxN2NlOTExMzY0NTI0OTI4Y2IzOTUvYTE2ODFkNjdlYmU1NWM3NmMzYWY1ZjQwMTYxOWMyNzguanBlZw=="
+        }
+      ]
+    },
+    {
+      "name": "Beverage Menu",
+      "items": [
+        {
+          "name": "Oreo milkshake",
+          "price": "$7.50",
+          "description": "An indulgent milkshake blended with the classic flavors of Oreo cookies."
+        },
+        {
+          "name": "Mango Strawberry Ice Blended",
+          "price": "$9.00",
+          "description": "A refreshing smoothie blending mango and strawberry flavors into a smooth, fruity drink."
+        },
+        {
+          "name": "Mango Coconut Ice Blended",
+          "price": "$9.00",
+          "description": "Smooth blend of mango and coconut with tapioca pearls."
+        },
+        {
+          "name": "Pina Colada Ice Blended",
+          "price": "$9.00",
+          "description": "Creamy coconut and pineapple smoothie, blended to a smooth consistency."
+        },
+        {
+          "name": "Pineapple Mango Ice Blended",
+          "price": "$9.00",
+          "description": "A refreshing blend of pineapple and mango, creating a smooth, fruity beverage."
+        },
+        {
+          "name": "Strawberry Matcha",
+          "price": "$9.00",
+          "description": "Layered matcha and strawberry beverage with a vibrant green tea flavor complemented by sweet strawberry essence."
+        },
+        {
+          "name": "Mango Matcha",
+          "price": "$9.00",
+          "description": "Layers of vibrant mango puree topped with creamy matcha, creating a refreshing blend of fruity and earthy flavors."
+        },
+        {
+          "name": "Matcha Fresh Milk",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Strawberry Mango Ice Blended",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Pineapple Ice Blended",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Mango Passion Fruit Ice Blended",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Tropical Fruit Ice Blended",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Frappe",
+          "price": "$7.50",
+          "description": ""
+        },
+        {
+          "name": "Strawberry Ice Blended",
+          "price": "$9.00",
+          "description": "A refreshing blend of strawberries, creating a smooth, fruity beverage."
+        },
+        {
+          "name": "Strawberry Coconut Ice Blended",
+          "price": "$9.00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Coffee Menu",
+      "items": [
+        {
+          "name": "Pistachio Iced Latte",
+          "price": "$9.00",
+          "description": ""
+        },
+        {
+          "name": "Cappuccino",
+          "price": "$6.50",
+          "description": "Classic espresso with steamed milk, topped with a layer of frothy foam."
+        },
+        {
+          "name": "Latte",
+          "price": "$6.50",
+          "description": "Smooth blend of warm espresso and steamed milk."
+        },
+        {
+          "name": "Latte Macchiato",
+          "price": "$6.50",
+          "description": ""
+        },
+        {
+          "name": "Caramel iced latte",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Regular Iced Latte",
+          "price": "$8.00",
+          "description": ""
+        },
+        {
+          "name": "Dulce De Leche Iced Latte",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Spanish Iced Latte",
+          "price": "$8.50",
+          "description": ""
+        },
+        {
+          "name": "Turkish Coffee",
+          "price": "$3.50",
+          "description": "Rich, aromatic finely ground coffee, traditionally served with foam on top."
+        },
+        {
+          "name": "Americano",
+          "price": "$6.50",
+          "description": "Espresso diluted with hot water, a classic, robust American-style coffee."
+        }
+      ]
+    }
+  ]
+}
